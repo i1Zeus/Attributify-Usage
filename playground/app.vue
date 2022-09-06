@@ -13,7 +13,7 @@
   appManager.addApp({
       "name": "Enab",
       "title": "تطبيقي",
-      "minWidth": 950,
+      "minWidth": 550,
       "minHeight": 600,
   })
 </script>
