@@ -1,3 +1,5 @@
-# My App
+# Attributify Usage
 
-For more information please visi [Enab Docs](https://docs.enab.app/get-started/enab/first-get-started)
+This is a ***tutorial*** Repo to show you guys how to use the Attributify Mode
+
+For The video tutorial on YouTube [Click Here!](https://youtube.com)
